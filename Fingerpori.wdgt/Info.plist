@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllowNetworkAccess</key>
+	<true/>
+	<key>CFBundleDisplayName</key>
+	<string>Fingerpori</string>
+	<key>CFBundleIdentifier</key>
+	<string>mursu.fingerpori</string>
+	<key>CFBundleName</key>
+	<string>Fingerpori</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.2</string>
+	<key>CFBundleVersion</key>
+	<string>1.2</string>
+	<key>CloseBoxInsetX</key>
+	<integer>10</integer>
+	<key>CloseBoxInsetY</key>
+	<integer>10</integer>
+	<key>Height</key>
+	<integer>215</integer>
+	<key>MainHTML</key>
+	<string>fingerpori.html</string>
+	<key>Width</key>
+	<integer>589</integer>
+</dict>
+</plist>

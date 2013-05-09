@@ -1,0 +1,45 @@
+body {
+    margin: 0px;
+}
+
+#fingerpori {
+    position: absolute;
+    top: 15px;
+    left: 13px;
+    width: 560px;
+    height: 180px;
+}
+
+#frontImg {
+    position: absolute;
+    top: 0px;
+    left: -2px;
+    width: 590px;
+    height: 210px;
+}
+
+#previous {
+
+    position: absolute;
+    height: 128px;
+    width: 128px;
+    top: 41px;
+    left: -15px;
+}
+
+#next {
+    
+    position: absolute;
+    height: 128px;
+    width: 128px;
+    top: 41px;
+    right: -15px;
+}
+
+#previous:hover {
+    background-image: url('Images/aleft.png');    
+}
+
+#next:hover {
+    background-image: url('Images/aright.png');
+}
