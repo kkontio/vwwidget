@@ -5,15 +5,15 @@
 	<key>AllowNetworkAccess</key>
 	<true/>
 	<key>CFBundleDisplayName</key>
-	<string>Fingerpori</string>
+	<string>Viivi ja Wagner</string>
 	<key>CFBundleIdentifier</key>
-	<string>mursu.fingerpori</string>
+	<string>mursu.viivijawafner</string>
 	<key>CFBundleName</key>
-	<string>Fingerpori</string>
+	<string>ViiviJaWagner</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.3</string>
+	<string>2.0</string>
 	<key>CFBundleVersion</key>
-	<string>1.3</string>
+	<string>2.0</string>
 	<key>CloseBoxInsetX</key>
 	<integer>10</integer>
 	<key>CloseBoxInsetY</key>
@@ -21,7 +21,7 @@
 	<key>Height</key>
 	<integer>215</integer>
 	<key>MainHTML</key>
-	<string>fingerpori.html</string>
+	<string>viivijawagner.html</string>
 	<key>Width</key>
 	<integer>589</integer>
 </dict>
