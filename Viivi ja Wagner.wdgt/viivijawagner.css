@@ -37,9 +37,9 @@ body {
 }
 
 #previous:hover {
-    background-image: url('Images/aleft.png');    
+    background-image: url('images/aleft.png');    
 }
 
 #next:hover {
-    background-image: url('Images/aright.png');
+    background-image: url('images/aright.png');
 }
